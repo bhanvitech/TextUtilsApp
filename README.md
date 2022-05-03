@@ -1,13 +1,13 @@
-## Running React on Repl.it
+This is Textutils App  that gives you a way to analyze your text quickly and efficiently. Be it word count, character count or copy text.
+Created By REACT.
 
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
+SCREENSHOTS
+----
+lightmode: 
+![image](https://user-images.githubusercontent.com/100353170/166452107-a805ffdc-2ad6-4148-b690-4f7998e4a55b.png)
 
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
+darkmode :
+![image](https://user-images.githubusercontent.com/100353170/166452257-24ac8831-5c37-4698-9037-d6583d6aa266.png)
 
-Using the two in conjunction is one of the fastest ways to build a web app.
-
-### Getting Started
-- Hit run
-- Edit [App.jsx](#src/App.jsx) and watch it live update!
-
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the `.replit` file.
+About Us:
+![image](https://user-images.githubusercontent.com/100353170/166452377-410d894b-e99d-45f2-97b5-dcf01c7c0697.png)
